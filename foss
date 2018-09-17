@@ -1,0 +1,65 @@
+Free and open-source software (FOSS) is software that can be classified as both Free software and Open-source software.[a] That is, anyone is freely licensed to use, copy, study, and change the software in any way, and the source code is openly shared so that people are encouraged to voluntarily improve the design of the software.[3] This is in contrast to proprietary software, where the software is under restrictive copyright licensing and the source code is usually hidden from the users.
+
+FOSS maintains the software user's civil liberty rights (see the Four Essential Freedoms). Other benefits of using FOSS can include decreased software costs, increased security and stability (especially in regard to malware), protecting privacy, education, and giving users more control over their own hardware. "Free and Open-source" (FOSS) operating systems such as Linux and descendants of BSD are widely utilized today, powering millions of servers, desktops, smartphones (e.g. Android), and other devices.[4][5] Free software licenses and Open-source licenses are used by many software packages. The Free software movement and the Open-source software movement are online social movements behind widespread production and adoption of FOSS.
+Contents
+
+    1 Overview
+        1.1 Free software
+        1.2 Open source
+    2 History
+    3 Usage
+        3.1 FOSS benefits over proprietary software
+        3.2 Drawbacks to proprietary software
+        3.3 Adoption by governments
+        3.4 Adoption by supranational unions and international organizations
+    4 Production
+    5 Issues and incidents
+        5.1 GPLv3 controversy
+        5.2 Skewed prioritization, ineffectiveness and egoism of developers
+        5.3 Commercial ownership of open-source software
+        5.4 Legal cases
+    6 As part/driver of a new socio-economic model
+    7 See also
+    8 Notes
+    9 References
+        9.1 Sources
+    10 Further reading
+
+Overview
+Further information: Alternative terms for free software
+
+"Free and Open-source software" (FOSS) is an umbrella term for software that is simultaneously considered both Free software and Open-source software. FOSS (Free and Open-source software) allows the user to inspect the source code and provides a high level of control of the software's functions compared to proprietary software. The term "Free software" does not refer to the monetary cost of the software at all, but rather whether the license maintains the software user's civil liberties ("free” as in “free speech,” not as in “free beer”).[3] There are a number of related terms and abbreviations for Free and Open-source software (FOSS or F/OSS), or Free/Libre and open source software (FLOSS or F/LOSS -- FLOSS is the FSF-preferred term).[6]
+
+Although there is almost a complete overlap between Free software licenses and Open-source software licenses, there is a strong philosophical disagreement between the advocates of these two positions. The terminology of FOSS or "Free and Open-source software" was created to be a neutral on these philosophical disagreements between the FSF and OSI and have a single unified term that could refer to both concepts.[7]
+
+As the Free Software Foundation (FSF) explains the philosophical difference between Free software and Open-source software: "The two terms describe almost the same category of software, but they stand for views based on fundamentally different values. Open-source is a development methodology; Free software is a social movement. For the Free software movement, Free software is an ethical imperative, essential respect for the users' freedom. By contrast, the philosophy of Open-source considers issues in terms of how to make software “better”—in a practical sense only."[8] In parallel to this the Open Source Initiative (OSI) considers many Free Software licenses to also be open-source.[9] These include the latest versions of the FSF's three main licenses: the GPL, the Lesser General Public License (LGPL), and the GNU Affero General Public License (AGPL).[10]
+Free software
+
+Richard Stallman's Free Software Definition, adopted by the Free Software Foundation (FSF), defines Free software as a matter of liberty not price,[11] and it upholds the Four Essential Freedoms. The earliest known publication of the definition of his free software idea was in the February 1986 edition[12] of the FSF's now-discontinued GNU's Bulletin publication. The canonical source for the document is in the philosophy section of the GNU Project website. As of August 2017, it is published there in 40 languages.[13]
+Four essential freedoms of Free Software
+
+To meet the definition of "Free software" the FSF requires the software's licensing rights what the FSF respect the civil liberties / human rights of what the FSF calls the software user's "Four Essential Freedoms".[14]
+
+    The freedom to run the program as you wish, for any purpose (freedom 0).
+    The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
+    The freedom to redistribute copies so you can help others (freedom 2).
+    The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.[14]
+
+Open source
+
+The Open-source software Definition is used by the Open Source Initiative (OSI) to determine whether a software license qualifies for the organization's insignia for Open-source software. The definition was based on the Debian Free Software Guidelines, written and adapted primarily by Bruce Perens.[15][16] Perens did not base his writing on the Four Essential Freedoms of free software from the Free Software Foundation, which were only later available on the web.[17] Perens subsequently stated that he felt Eric Raymond's promotion of Open-source unfairly overshadowed the Free Software Foundation's efforts and reaffirmed his support for Free software.[18] In the following 2000s he spoke about Open source again.[19][20]
+History
+Main article: History of free and open-source software
+Accuracy dispute
+	
+This section appears to contradict the article History of free and open-source software. Please see discussion on the linked talk page. (June 2015) (Learn how and when to remove this template message)
+
+In the 1950s through the 1980s, it was common for computer users to have the source code for all programs they used, and the permission and ability to modify it for their own use. Software, including source code, was commonly shared by individuals who used computers, often as public domain software.[21] Most companies had a business model based on hardware sales, and provided or bundled software with hardware, free of charge.[22] Organizations of users and suppliers were formed to facilitate the exchange of software; see, for example, SHARE and DECUS.
+
+By the late 1960s, the prevailing business model around software was changing. A growing and evolving software industry was competing with the hardware manufacturer's bundled software products; rather than funding software development from hardware revenue, these new companies were selling software directly. Leased machines required software support while providing no revenue for software, and some customers able to better meet their own needs did not want the costs of software bundled with hardware product costs. In United States vs. IBM, filed 17 January 1969, the government charged that bundled software was anticompetitive.[23] While some software was still being provided without monetary cost and license restriction, there was a growing amount of software that was only at a monetary cost with restricted licensing. In the 1970s and early 1980s, some parts of the software industry began using technical measures (such as distributing only binary copies of computer programs) to prevent computer users from being able to use reverse engineering techniques to study and customize software they had paid for. In 1980, the copyright law was extended to computer programs in the United States[24]—previously, computer programs could be considered ideas, procedures, methods, systems, and processes, which are not copyrightable.[25][26]
+
+Early on, closed-source software was uncommon until the mid-1970s to the 1980s, when IBM implemented in 1983 an "object code only" policy, no longer distributing source code.[27][28][29]
+
+In 1983, Richard Stallman, longtime member of the hacker community at the MIT Artificial Intelligence Laboratory, announced the GNU project, saying that he had become frustrated with the effects of the change in culture of the computer industry and its users.[30] Software development for the GNU operating system began in January 1984, and the Free Software Foundation (FSF) was founded in October 1985. An article outlining the project and its goals was published in March 1985 titled the GNU Manifesto. The manifesto included significant explanation of the GNU philosophy, Free Software Definition and "copyleft" ideas. The FSF takes the position that the fundamental issue Free software addresses is an ethical one—to ensure software users can exercise what it calls "The Four Essential Freedoms".[3]
+
+The Linux kernel, created by Linus Torvalds, was released as freely modifiable source code in 1991. Initially, Linux was not released under either a Free software or an Open-source software license. However, with version 0.12 in February 1992, he relicensed the project under the GNU General Public License.[31] Much like BSD Unix, Torvalds' kernel attracted the attention of volunteer programmers.[citation needed] 
